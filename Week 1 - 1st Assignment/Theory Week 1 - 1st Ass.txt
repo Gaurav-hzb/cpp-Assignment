@@ -1,0 +1,23 @@
+Ques: How much space does following data types take ? 
+1. int 
+2. bool 
+3. float 
+Ans: 1. Int -> 2 bytes 
+2. bool -> 1 byte 
+3. float -> 4 bytes 
+
+Ques: What is the output of this program? 
+void main(){ 
+int a=4; 
+int b=5; 
+a++; b--; 
+cout<<++a<<” “<<b--; 
+} 
+Ans: output -> 6 4
+Ques: How many of these can be a variable name? 
+01PWskills 
+_FLOAT 
+int 
+FLOAT 
+You will succeed 
+Ans: 2
